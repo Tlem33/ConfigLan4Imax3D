@@ -1,6 +1,7 @@
 # ConfigLan4Imax3D
 
 Version 1.0 du 25/11/2020 - Par Tlem
+
 https://github.com/Tlem33/ConfigLan4Imax3D
 
 
@@ -36,4 +37,4 @@ Lisez attentivement la licence GPL pour plus de détails (https://fr.wikipedia.o
 ## HISTORIQUE :
 26/11/2020 - Version 1.0
 
-	- Première version.
+	* Première version.
