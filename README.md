@@ -29,7 +29,7 @@ Testé sous Windows 10
 
 ## LICENCE :
 
-Licence MIT - https://fr.wikipedia.org/wiki/Licence_MIT
+Licence [MIT](https://fr.wikipedia.org/wiki/Licence_MIT)
 
 Droit d'auteur (c) 2020 Tlem33
 
