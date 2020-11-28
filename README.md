@@ -2,7 +2,7 @@
 
 Version 1.0 du 25/11/2020 - Par Tlem  
 https://github.com/Tlem33/ConfigLan4Imax3D
----
+***
 
 ## DESCRIPTION :
 
@@ -25,7 +25,7 @@ La désactivation du protocole IPV6 sera fait individuellement.
 ## SYSTEME(S) :
 
 Testé sous Windows 10
----
+***
 
 ## LICENCE :
 
