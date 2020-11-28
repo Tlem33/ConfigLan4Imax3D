@@ -14,9 +14,9 @@ Il permet de désactiver rapidement (et automatiquement) le client GigE Vision F
 
 Lancez ConfigLan4Imax3D.cmd et choisisez l'action à réaliser.
 
-	1. Désactivation du client GigE Vision Filter Driver  
-	2. Désactivation du protocole IPV6 sur une connexion  
-	3. Voir l'état GigE et IPV6 sur toutes les cartes réseau  
+ 1. Désactivation du client GigE Vision Filter Driver  
+ 2. Désactivation du protocole IPV6 sur une connexion  
+ 3. Voir l'état GigE et IPV6 sur toutes les cartes réseau  
 
 La désactivation du client GigE sera effectuée instantanément ou avec une temporisation réglable sur l'ensemble des cartes réseau.
 La désactivation du protocole IPV6 sera fait individuellement.
