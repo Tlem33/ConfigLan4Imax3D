@@ -1,6 +1,13 @@
-:: https://github.com/Tlem33/ConfigLan4Imax3D
-:: ConfigLan4Imax3D.cmd - Version 1.0 du 25/11/2020
+:: ConfigLan4Imax3D.cmd - Par Tlem33
+:: Permet de configurer rapidement les cartes réseau
+:: lors de l'installation d'un panoramique I-Max 3D.
 ::
+:: Lire le fichier README.md pour plus d'informations.
+::
+:: Version 1.5 du 21/01/2021
+:: https://github.com/Tlem33/ConfigLan4Imax3D
+::
+
 @Echo Off
 Cls
 
