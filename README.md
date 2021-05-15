@@ -3,13 +3,14 @@
 Version 1.0 du 25/11/2020 - Par Tlem33  
 https://github.com/Tlem33/ConfigLan4Imax3D
 
-***
+---
 
 ## DESCRIPTION :
 
 ConfigLan4Imax3D.cmd est un utilitaire pour aider à la configuration Lan de la I-Max 3D.
 Il permet de désactiver rapidement (et automatiquement) le client GigE Vision Filter Driver sur toutes les cartes réseau, ainsi que le protocole IPV6 sur la/les cartes souhaitées.
 
+---
 
 ## UTILISATION :
 
@@ -22,15 +23,13 @@ Lancez ConfigLan4Imax3D.cmd et choisisez l'action à réaliser :
 La désactivation du client GigE sera effectuée instantanément ou avec une temporisation réglable sur l'ensemble des cartes réseau.
 La désactivation du protocole IPV6 sera fait individuellement.
 
-*** 
+--- 
 
 ## SYSTEME(S) :
 
-Testé sous :
+     Windows 10
 
-            - Windows 10
-
-***
+---
 
 ## LICENCE :
 
@@ -60,3 +59,5 @@ INDIRECT AVEC L’UTILISATION DE CE LOGICIEL.
 
 26/11/2020 - Version 1.0  
      - Première version.
+
+---
